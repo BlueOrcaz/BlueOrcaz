@@ -1,4 +1,4 @@
-### Hello, I'm Bond 👋
+### Hello, I'm BlueOrcaz! 👋
 
 - 🔭 I’m currently working on my comp sci IA.
 - 🌱 I’m currently learning java.
