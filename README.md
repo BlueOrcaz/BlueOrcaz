@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning Java!
 - 😎 Ask me about anything!
-- 📫 How to reach me: BangOCE#2022 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
+- 📫 How to reach me: BangOCE#0001 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
 - ⚡ Fun Fact: I enjoy cooking!
 
 <details>
