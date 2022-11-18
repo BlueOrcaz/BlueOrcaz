@@ -29,17 +29,15 @@
 </details>
 
 
-<details>
+
 <summary>Github Stats:</summary>
-<br>
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BlueOrcaz&&show_icons=true&title_color=ffffff&icon_color=33BEFF&text_color=FFFFFF&bg_color=151515">
     </p>
- <br>
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueOrcaz&&show_icons=true&title_color=ffffff&icon_color=33BEFF&text_color=FFFFFF&bg_color=151515">
     </p>
-</details>
+
 
 
 
