@@ -8,14 +8,10 @@
 - 📫 How to reach me: BangOCE#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
 - ⚡ Fun Fact: I enjoy cooking!
 
-<p align="center">
-  <a href="https://discord.com/users/567885938160697377">
-    <img src="https://lanyard-profile-readme.vercel.app/api/362542194072092673?bg=0a0f16" alt="Discord Profile"/>
-  </a>
-</p>
+
 
 <details>
-<summary>Languages and Tools that I use:</summary>
+<summary>Tools I use:</summary>
 <br>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -35,6 +31,12 @@
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BlueOrcaz&&show_icons=true&title_color=ffffff&icon_color=33BEFF&text_color=FFFFFF&bg_color=151515">
     </p>
+    
+   <p align="center">
+  <a href="https://discord.com/users/567885938160697377">
+    <img src="https://lanyard-profile-readme.vercel.app/api/362542194072092673?bg=0a0f16" alt="Discord Profile"/>
+  </a>
+</p>
 
 
 
