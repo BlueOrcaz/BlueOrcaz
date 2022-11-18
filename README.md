@@ -6,12 +6,8 @@
 - 🔭 I’m currently learning Java!
 - 😎 Ask me about anything!
 - 📫 How to reach me: BangOCE#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
-- ⚡ Fun Fact: I enjoy cooking!
 
 
-
-<details>
-<summary>Tools I use:</summary>
 <br>
   <p align="center">
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
