@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning ReactJS!
 - 😎 Ask me about anything!
-- 📫 How to reach me: bangggxd#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
+- 📫 How to reach me: bangxd#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
 
 
 <br>
