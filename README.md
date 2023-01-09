@@ -3,7 +3,7 @@
 
 <h3 align="center">A 15 Year Old student living in Australia!</h3>
 
-- 🔭 I’m currently learning ReactJS!
+- 🔭 I’m currently learning JFrame
 - 😎 Ask me about anything!
 - 📫 How to reach me: bangxd#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
 
