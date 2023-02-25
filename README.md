@@ -18,6 +18,7 @@
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-vscode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white" />
  <img alt="Intellij IDEA" src="https://img.shields.io/badge/-intellij-D0A384?style=flat-square&logo=intellijidea&logoColor=white" />
+   <img alt="Python 3.9" src="https://img.shields.io/badge/-Python-217346?style=flat-square&logo=python&logoColor=white" />
  </p>
 </details>
 
