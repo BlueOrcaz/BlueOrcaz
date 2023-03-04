@@ -23,11 +23,7 @@
 </details>
 
 
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueOrcaz&&show_icons=true&title_color=ffffff&icon_color=33BEFF&text_color=FFFFFF&bg_color=151515">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueOrcaz&&show_icons=true&title_color=ffffff&icon_color=33BEFF&text_color=FFFFFF&bg_color=151515">
-  <img src="https://lanyard-profile-readme.vercel.app/api/362542194072092673?bg=0a0f16" alt="Discord Profile"/>
-    </p>
+ 
     <p align="center">
   <a href="https://discord.com/users/567885938160697377">
     
