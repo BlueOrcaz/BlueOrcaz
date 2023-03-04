@@ -8,6 +8,14 @@
 - 📫 How to reach me: bangxd#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
 
 
+<p align="center">
+  <a href="https://github.com/DiscordAnaxes">
+    <img src="https://komarev.com/ghpvc/?username=BlueOrcaz&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+  </a>
+</p>
+
+
+
 <br>
   <p align="center">
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
