@@ -3,9 +3,9 @@
 
 <h3 align="center">A 15 Year Old student living in Australia!</h3>
 
-- 🔭 I’m currently learning Python!
-- 😎 Ask me about anything!
-- 📫 How to reach me: bangxd#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
+- `🔭` I’m currently learning Python!
+- `😎` Ask me about anything!
+- `📫` How to reach me: bangxd#3522 on Discord, [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BlueOrcaz on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
 
 
 <p align="center">
@@ -19,8 +19,6 @@
 </p>
 
 
-
-<br>
   <p align="center">
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
