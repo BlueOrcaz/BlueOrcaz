@@ -23,14 +23,12 @@
 </details>
 
 
- 
-    <p align="center">
+<p align="center">
   <a href="https://discord.com/users/567885938160697377">
-    
+    <img src="https://lanyard-profile-readme.vercel.app/api/567885938160697377?bg=0a0f16" alt="Discord Profile"/>
   </a>
 </p>
-
-
+ 
 
 
 
