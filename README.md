@@ -3,7 +3,7 @@
 
 <h3 align="center">A 16 Year Old student living in Australia!</h3>
 
-- `🔭` I’m currently learning Python!
+- `🔭` I’m currently learning Java's JFrame
 - `😎` Ask me about anything!
 - `📫` How to reach me: [@bondmtran on Instagram](https://www.instagram.com/bondmtran/), [@BangOCE on YouTube](https://www.youtube.com/channel/UCxbJH5cCtnxyKxMoUkjVifg)
 
