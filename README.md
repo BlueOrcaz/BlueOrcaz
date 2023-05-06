@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm BlueOrcaz! 👋</h1>
+<h1 align="center">Hey, I'm BlueOrcaz! 👋</h1>
 
 <h3 align="center">A 16 Year Old student living in Australia!</h3>
 
