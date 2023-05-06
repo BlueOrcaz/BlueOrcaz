@@ -30,10 +30,10 @@
  <img alt="Intellij IDEA" src="https://img.shields.io/badge/-intellij-D0A384?style=flat-square&logo=intellijidea&logoColor=white" />
  <img alt="Python 3.9" src="https://img.shields.io/badge/-Python-217346?style=flat-square&logo=python&logoColor=white" />
  <img alt = "Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-  <img alt = "Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-  <img alt ="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
+  <img alt = "Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt ="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white" />
  </p>
 </details>
 
