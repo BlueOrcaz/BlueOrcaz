@@ -13,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=BlueOrcaz&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   </a>
-  <a href="https://discord.com/users/567885938160697377">
+  <a href="https://discord.com/users/362542194072092673">
     <img src="https://img.shields.io/badge/bang%235465-%237289da?logo=discord&style=flat-square" alt="Discord: bang#5465"/>
   </a>
 </p>
