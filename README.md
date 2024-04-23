@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm BlueOrcaz! 👋</h1>
 
-<h3 align="center">A 16 Year Old student living in Australia!</h3>
+<h3 align="center">A 17 Year Old student living in Australia!</h3>
 
 - `🔭` I’m currently learning ReactJS
 - `😎` Ask me about anything!
