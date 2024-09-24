@@ -3,9 +3,6 @@
 
 <h3 align="center">A 17 Year Old student living in Australia!</h3>
 
-- `🔭` I’m currently learning how to make Fabric Mods!
-- `😎` Ask me about anything!
-
 
 <p align="center">
   <a href="https://github.com/DiscordAnaxes">
