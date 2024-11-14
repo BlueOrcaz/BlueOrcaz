@@ -3,6 +3,8 @@
 
 <h3 align="center">A 17 Year Old student living in Australia!</h3>
 
+<h2>I am currently learning SvelteKit!</h2>
+
 
 <p align="center">
   <a href="https://github.com/DiscordAnaxes">
