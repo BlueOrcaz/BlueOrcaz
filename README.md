@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm BlueOrcaz! 👋</h1>
 
-<h3 align="center">A 18 year old first year engineering student!</h3>
+<h3 align="center">I am a first year engineering student!</h3>
 
 
 <p align="center">
