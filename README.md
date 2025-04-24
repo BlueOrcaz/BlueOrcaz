@@ -3,18 +3,6 @@
 
 <h3 align="center">I am a first year engineering student!</h3>
 
-
-<p align="center">
-  <a href="https://github.com/DiscordAnaxes">
-    <img src="https://komarev.com/ghpvc/?username=BlueOrcaz&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
-  </a>
-  </a>
-  <a href="https://discord.com/users/362542194072092673">
-    <img src="https://img.shields.io/badge/bang%235465-%237289da?logo=discord&style=flat-square" alt="Discord: BlueOrcaz"/>
-  </a>
-</p>
-
-
   <p align="center">
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
