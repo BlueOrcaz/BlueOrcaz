@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm BlueOrcaz! 👋</h1>
 
 <h3 align="center">About Me:</h3>
-- Studying Engineering at UQ <br>
+- Studying Electrical Engineering at UQ <br>
 - Aspiring Web/Game Developer <br>
 - Currently working on a Notesharing website <br>
 
