@@ -2,9 +2,9 @@
 <h1 align="center">Hey, I'm BlueOrcaz! 👋</h1>
 
 <h3 align="center">About Me:</h3>
-- Studying Engineering at UQ
-- Aspiring Web/Game Developer
-- Currently working on a Notesharing website
+- Studying Engineering at UQ <br>
+- Aspiring Web/Game Developer <br>
+- Currently working on a Notesharing website <br>
 
 
 
@@ -27,7 +27,9 @@
 </p>
 
 
+
 <h3>Socials</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bond-tran-b147a1286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](bond.tran1804@gmail.com) 
 <p align="center">
   <a href="https://discord.com/users/362542194072092673">
     <img src="https://lanyard-profile-readme.vercel.app/api/362542194072092673?bg=0a0f16" alt="Discord Profile"/>
