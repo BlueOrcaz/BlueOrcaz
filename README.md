@@ -32,8 +32,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bond-tran-b147a1286/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bond.tran1804@gmail.com)
-<p align="center">
-  <a href="https://discord.com/users/362542194072092673">
     <img src="https://lanyard-profile-readme.vercel.app/api/362542194072092673?bg=0a0f16" alt="Discord Profile"/>
   </a>
 </p>
