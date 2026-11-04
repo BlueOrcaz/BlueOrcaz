@@ -3,8 +3,7 @@
 
 <h3 align="center">About Me:</h3>
 - Studying Electrical Engineering at UQ <br>
-- Aspiring Web/Game Developer <br>
-- Currently working on a Notesharing website <br>
+- Interested in PCB Design and Hardware 
 
 
 
